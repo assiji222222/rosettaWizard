@@ -30,15 +30,15 @@ function App(): JSX.Element {
         </div>
         <div className="extra-bar">
             <GitHubButton
-                href="https://github.com/hlnajz/rosettaWizard"
+                href="https://github.com/assiji222222/rosettaWizard"
                 data-color-scheme="no-preference: dark; light: light; dark: dark;"
                 data-icon="octicon-star"
                 data-size="large"
                 data-show-count="true"
-                aria-label="Star hlnajz/rosettaWizard on GitHub" >
+                aria-label="Star assiji222222/rosettaWizard on GitHub" >
                 Star
             </GitHubButton>
-            <GitHubButton href="https://github.com/hlnajz/rosettaWizard/issues" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue m1dugh/RosettaStonks on GitHub">Issue</GitHubButton>
+            <GitHubButton href="https://github.com/assiji222222/rosettaWizard/issues" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue m1dugh/RosettaStonks on GitHub">Issue</GitHubButton>
         </div>
     </>)
 }
