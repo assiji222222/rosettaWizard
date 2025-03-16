@@ -1,27 +1,6 @@
 # Rosetta Wizard
 
-💬 **حيت حتى حد ما كي دعمني وما كاينش ولو دعم واحد أو قليل جاني! على هاد الإكستنسيون، غادي نحيدها. إلا بغيتي تزاد ليك السوايع، تواصل معايا في واتساب: 0625259070** 💬  
-💰 \*\*\*\* 💰
-
-**Note:** Remember you have to wait _24hours_ so the hours you added will show , also use it wisely.
-<br/>
-
-**Support Me with a Donation on CIH BANK 🏦💙:**
-<br/>
-**_Every contribution, big or small, means a lot. Thank you for your support!_**
-
-```bash
-3017932211013800
-```
-
-.....
-<br/>
-**_Full Name_**
-<br/>
-
-```bash
-Hamza LABBAALLI
-```
+**Note:** Remember you have to wait *24hours* so the hours you added will show , also use it wisely.
 
 ## Install
 
@@ -38,7 +17,7 @@ To use the extension in a chrome-based browser, you need to:
 - run the following command in the `rosettaWizard` folder.
 
 ```bash
-tar xvzf ./rosettaWizard-chrome.tar.gz
+$ tar xvzf ./rosettaWizard-chrome.tar.gz
 ```
 
 2.
@@ -58,3 +37,21 @@ To add time on `fluency builder` product, you need to go to your exercises, and
 answer at least one exercise. If the add time field does not appear, it means
 that no time request was caught, you need to refresh the question and answer it
 once again.
+
+_Note: If you don't see the add time field, it means that the actions you took
+on Rosetta stone website did not lead to adding legitimate time, and therefore,
+you need to answer other questions._
+
+#### Validating lesson in Fluency builder
+
+Right now, the validate lesson feature is not available.
+
+## Packaging the extension
+
+### Chrome
+
+To package the extension for chrome, the following command can be ran:
+
+```
+$ make chrome
+```
